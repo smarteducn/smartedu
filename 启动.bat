@@ -1,1 +1,1 @@
-smartedu.cn.exe
+SmartEdu.exe
